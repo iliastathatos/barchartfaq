@@ -1,0 +1,10 @@
+.jumbotron {
+  background: rgb(238,174,202);
+  background: linear-gradient(54deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  color: white;
+   font-size:40px;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
